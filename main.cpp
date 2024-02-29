@@ -5,6 +5,8 @@
 #include <QAbstractTableModel>
 #include <QMainWindow>
 
+#include <array>
+
 
 class View : public QTableView
 {
